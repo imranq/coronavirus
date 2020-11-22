@@ -1,0 +1,161 @@
+[{
+    "name": "alanine",
+    "abbr": "ala",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "arginine",
+    "abbr": "arg",
+    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=12.5"]
+}, {
+    "name": "asparagine",
+    "abbr": "asn",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "aspartate",
+    "abbr": "asp",
+    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=3.9"]
+}, {
+    "name": "cysteine",
+    "abbr": "cys",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "glutamate",
+    "abbr": "glu",
+    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=4.2"]
+}, {
+    "name": "glutamine",
+    "abbr": "gln",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "glycine",
+    "abbr": "gly",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "histidine",
+    "abbr": "his",
+    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=6.0"]
+}, {
+    "name": "isoleucine",
+    "abbr": "ile",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "leucine",
+    "abbr": "leu",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "lysine",
+    "abbr": "lys",
+    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=10.5"]
+}, {
+    "name": "methionine",
+    "abbr": "met",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "phenylalanine",
+    "abbr": "phe",
+    "properties": ["aromatic"]
+}, {
+    "name": "proline",
+    "abbr": "pro",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "serine",
+    "abbr": "ser",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "threonine",
+    "abbr": "thr",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "tryptophan",
+    "abbr": "trp",
+    "properties": ["aromatic"]
+}, {
+    "name": "tyrosine",
+    "abbr": "tyr",
+    "properties": ["aromatic"]
+}, {
+    "name": "valine",
+    "abbr": "val",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "alanine",
+    "abbr": "ala",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "arginine",
+    "abbr": "arg",
+    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=12.5"]
+}, {
+    "name": "asparagine",
+    "abbr": "asn",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "aspartate",
+    "abbr": "asp",
+    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=3.9"]
+}, {
+    "name": "cysteine",
+    "abbr": "cys",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "glutamate",
+    "abbr": "glu",
+    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=4.2"]
+}, {
+    "name": "glutamine",
+    "abbr": "gln",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "glycine",
+    "abbr": "gly",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "histidine",
+    "abbr": "his",
+    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=6.0"]
+}, {
+    "name": "isoleucine",
+    "abbr": "ile",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "leucine",
+    "abbr": "leu",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "lysine",
+    "abbr": "lys",
+    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=10.5"]
+}, {
+    "name": "methionine",
+    "abbr": "met",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "phenylalanine",
+    "abbr": "phe",
+    "properties": ["aromatic"]
+}, {
+    "name": "proline",
+    "abbr": "pro",
+    "properties": ["non-polar", "aliphatic residues"]
+}, {
+    "name": "serine",
+    "abbr": "ser",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "threonine",
+    "abbr": "thr",
+    "properties": ["polar", "non-charged"]
+}, {
+    "name": "tryptophan",
+    "abbr": "trp",
+    "properties": ["aromatic"]
+}, {
+    "name": "tyrosine",
+    "abbr": "tyr",
+    "properties": ["aromatic"]
+}, {
+    "name": "valine",
+    "abbr": "val",
+    "properties": ["non-polar", "aliphatic residues"]
+}]
