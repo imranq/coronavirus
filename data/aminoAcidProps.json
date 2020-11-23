@@ -1,161 +1,141 @@
 [{
     "name": "alanine",
     "abbr": "ala",
-    "properties": ["non-polar", "aliphatic residues"]
+    "char": "a",
+    "properties": ["non-polar", "aliphatic residues"],
+    "linearFormula": "CH3-CH(NH2)-COOH",
+    "molecularFormula": "C3H7NO2"
 }, {
     "name": "arginine",
     "abbr": "arg",
-    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=12.5"]
+    "char": "r",
+    "properties": ["positively charged", "basic", "non-acidic", "polar", "hydrophilic", "pk=12.5"],
+    "linearFormula": "HN=C(NH2)-NH-(CH2)3-CH(NH2)-COOH",
+    "molecularFormula": "C6H14N4O2"
 }, {
     "name": "asparagine",
     "abbr": "asn",
-    "properties": ["polar", "non-charged"]
+    "char": "n",
+    "properties": ["polar", "non-charged"],
+    "linearFormula": "H2N-CO-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C4H8N2O3"
 }, {
     "name": "aspartate",
     "abbr": "asp",
-    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=3.9"]
+    "char": "d",
+    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=3.9"],
+    "linearFormula": "HOOC-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C4H7NO4"
 }, {
     "name": "cysteine",
     "abbr": "cys",
-    "properties": ["polar", "non-charged"]
+    "char": "c",
+    "properties": ["polar", "non-charged"],
+    "linearFormula": "HS-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C3H7NO2S"
 }, {
     "name": "glutamate",
     "abbr": "glu",
-    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=4.2"]
+    "char": "e",
+    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=4.2"],
+    "linearFormula": "HOOC-(CH2)2-CH(NH2)-COOH",
+    "molecularFormula": "C5H9NO4"
 }, {
     "name": "glutamine",
     "abbr": "gln",
-    "properties": ["polar", "non-charged"]
+    "char": "q",
+    "properties": ["polar", "non-charged"],
+    "linearFormula": "H2N-CO-(CH2)2-CH(NH2)-COOH",
+    "molecularFormula": "C5H10N2O3"
 }, {
     "name": "glycine",
     "abbr": "gly",
-    "properties": ["non-polar", "aliphatic residues"]
+    "char": "g",
+    "properties": ["non-polar", "aliphatic residues"],
+    "linearFormula": "NH2-CH2-COOH",
+    "molecularFormula": "C2H5NO2"
 }, {
     "name": "histidine",
     "abbr": "his",
-    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=6.0"]
+    "char": "h",
+    "properties": ["positively charged", "basic", "non-acidic", "polar", "hydrophilic", "pk=6.0"],
+    "linearFormula": "NH-CH=N-CH=C-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C6H9N3O2"
 }, {
     "name": "isoleucine",
     "abbr": "ile",
-    "properties": ["non-polar", "aliphatic residues"]
+    "char": "i",
+    "properties": ["non-polar", "aliphatic residues"],
+    "linearFormula": "CH3-CH2-CH(CH3)-CH(NH2)-COOH",
+    "molecularFormula": "C6H13NO2"
 }, {
     "name": "leucine",
     "abbr": "leu",
-    "properties": ["non-polar", "aliphatic residues"]
+    "char": "l",
+    "properties": ["non-polar", "aliphatic residues"],
+    "linearFormula": "(CH3)2-CH-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C6H13NO2"
 }, {
     "name": "lysine",
     "abbr": "lys",
-    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=10.5"]
+    "char": "k",
+    "properties": ["positively charged", "basic", "non-acidic", "polar", "hydrophilic", "pk=10.5"],
+    "linearFormula": "H2N-(CH2)4-CH(NH2)-COOH",
+    "molecularFormula": "C6H14N2O2"
 }, {
     "name": "methionine",
     "abbr": "met",
-    "properties": ["polar", "non-charged"]
+    "char": "m",
+    "properties": ["polar", "non-charged"],
+    "linearFormula": "CH3-S-(CH2)2-CH(NH2)-COOH",
+    "molecularFormula": "C5H11NO2S"
 }, {
     "name": "phenylalanine",
     "abbr": "phe",
-    "properties": ["aromatic"]
+    "char": "f",
+    "properties": ["aromatic"],
+    "linearFormula": "Ph-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C9H11NO2"
 }, {
     "name": "proline",
     "abbr": "pro",
-    "properties": ["non-polar", "aliphatic residues"]
+    "char": "p",
+    "properties": ["non-polar", "aliphatic residues"],
+    "linearFormula": "NH-(CH2)3-CH-COOH",
+    "molecularFormula": "C5H9NO2"
 }, {
     "name": "serine",
     "abbr": "ser",
-    "properties": ["polar", "non-charged"]
+    "char": "s",
+    "properties": ["polar", "non-charged"],
+    "linearFormula": "HO-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C3H7NO3"
 }, {
     "name": "threonine",
     "abbr": "thr",
-    "properties": ["polar", "non-charged"]
+    "char": "t",
+    "properties": ["polar", "non-charged"],
+    "linearFormula": "CH3-CH(OH)-CH(NH2)-COOH",
+    "molecularFormula": "C4H9NO3"
 }, {
     "name": "tryptophan",
     "abbr": "trp",
-    "properties": ["aromatic"]
+    "char": "w",
+    "properties": ["aromatic"],
+    "linearFormula": "Ph-NH-CH=C-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C11H12N2O2"
 }, {
     "name": "tyrosine",
     "abbr": "tyr",
-    "properties": ["aromatic"]
+    "char": "y",
+    "properties": ["aromatic"],
+    "linearFormula": "HO-Ph-CH2-CH(NH2)-COOH",
+    "molecularFormula": "C9H11NO3"
 }, {
     "name": "valine",
     "abbr": "val",
-    "properties": ["non-polar", "aliphatic residues"]
-}, {
-    "name": "alanine",
-    "abbr": "ala",
-    "properties": ["non-polar", "aliphatic residues"]
-}, {
-    "name": "arginine",
-    "abbr": "arg",
-    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=12.5"]
-}, {
-    "name": "asparagine",
-    "abbr": "asn",
-    "properties": ["polar", "non-charged"]
-}, {
-    "name": "aspartate",
-    "abbr": "asp",
-    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=3.9"]
-}, {
-    "name": "cysteine",
-    "abbr": "cys",
-    "properties": ["polar", "non-charged"]
-}, {
-    "name": "glutamate",
-    "abbr": "glu",
-    "properties": ["negatively charged", "acidic", "polar", "hydrophilic", "pk=4.2"]
-}, {
-    "name": "glutamine",
-    "abbr": "gln",
-    "properties": ["polar", "non-charged"]
-}, {
-    "name": "glycine",
-    "abbr": "gly",
-    "properties": ["non-polar", "aliphatic residues"]
-}, {
-    "name": "histidine",
-    "abbr": "his",
-    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=6.0"]
-}, {
-    "name": "isoleucine",
-    "abbr": "ile",
-    "properties": ["non-polar", "aliphatic residues"]
-}, {
-    "name": "leucine",
-    "abbr": "leu",
-    "properties": ["non-polar", "aliphatic residues"]
-}, {
-    "name": "lysine",
-    "abbr": "lys",
-    "properties": ["positively charged","basic", "non-acidic", "polar", "hydrophilic", "pk=10.5"]
-}, {
-    "name": "methionine",
-    "abbr": "met",
-    "properties": ["polar", "non-charged"]
-}, {
-    "name": "phenylalanine",
-    "abbr": "phe",
-    "properties": ["aromatic"]
-}, {
-    "name": "proline",
-    "abbr": "pro",
-    "properties": ["non-polar", "aliphatic residues"]
-}, {
-    "name": "serine",
-    "abbr": "ser",
-    "properties": ["polar", "non-charged"]
-}, {
-    "name": "threonine",
-    "abbr": "thr",
-    "properties": ["polar", "non-charged"]
-}, {
-    "name": "tryptophan",
-    "abbr": "trp",
-    "properties": ["aromatic"]
-}, {
-    "name": "tyrosine",
-    "abbr": "tyr",
-    "properties": ["aromatic"]
-}, {
-    "name": "valine",
-    "abbr": "val",
-    "properties": ["non-polar", "aliphatic residues"]
+    "char": "v",
+    "properties": ["non-polar", "aliphatic residues"],
+    "linearFormula": "(CH3)2-CH-CH(NH2)-COOH",
+    "molecularFormula": "C5H11NO2"
 }]

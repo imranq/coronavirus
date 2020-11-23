@@ -1,8 +1,7 @@
 ## Analyzing the Coronavirus Genome
+![Alt text](public/covidimg.png?raw=true "Title")
 
-## Ideas 
-- Deep learning to predict the next base pair
-- Deep learning to detect which sequences will code proteins
+
 
 ## Technologies
 - Javascript (to run analyses in a notebook and write visualizations)
@@ -12,9 +11,13 @@
 
 ## Experiments
 - Find where the proteins position themselves in the full sequence
+- Locate positions of coding regions in RNA (generate visualization)
 - If the protein sequences overlap
 - Where the protein starts and stops translation in the RNA sequence
 - Composition of amino acids in proteins
+- Understanding the path of mutation and how the proteins change
+- Deep learning to predict the next base pair in viral RNA
+- Deep learning to detect which sequences in Viral RNA will code proteins
 
 ## References
 Building phylogenetic trees

@@ -1,0 +1,142 @@
+[
+    {
+        "name": "leader protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp2",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp3",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp4",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "3C-like proteinase",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp6",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp7",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp8",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp9",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp10",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF7b protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF1a polyprotein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "RNA-dependent RNA polymerase",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "helicase",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "3'-to-5' exonuclease",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "endoRNAse",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "2'-O-ribose methyltransferase",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nsp11",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF10 protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF1ab polyprotein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "surface glycoprotein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF3a protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "envelope protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "membrane glycoprotein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF6 protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF7a protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "ORF8 protein",
+        "description": "",
+        "ranges": []
+    },
+    {
+        "name": "nucleocapsid phosphoprotein",
+        "description": "",
+        "ranges": []
+    }
+]
