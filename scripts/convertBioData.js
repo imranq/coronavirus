@@ -3,10 +3,7 @@ fs = require('fs')
 
 suppData = papa.parse(fs.readFileSync("data/raw/aminoacidmolecular2.csv").toString(),{"header": true})["data"]
 mainData = JSON.parse(fs.readFileSync("data/aminoAcidProps.json").toString())
-
 // console.log(suppData)
-
-
 
 result = mainData.map(a => {
     ind = suppData.map(s => s["Abbreviation1"].toLowerCase()).indexOf(a["char"])
@@ -16,4 +13,3 @@ result = mainData.map(a => {
 })
 
 console.log(JSON.stringify(result))
-
