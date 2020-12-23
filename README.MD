@@ -1,7 +1,10 @@
 ## Analyzing the Coronavirus Genome
 **![Alt text](public/covidimg.png?raw=true "Title")**
 
+Personal notes and scripts to analyze the Coronavirus genome from first principles. 
+
 ## Setup
+Get viral genome from GenBank: run `setupseqs.js` 
 
 
 ### Techstack
@@ -14,7 +17,6 @@
 - Auto download NCBI sequences
 
 ### Experiments
-
 
 #### Understand the RNA Genome
 - Find where the proteins position themselves in the full sequence
@@ -39,7 +41,7 @@
   - When does the protein start?
   - What other proteins are coded that have not been downloaded?
 
-- Hidden Markov Model (finding russian dudes)
+- Hidden Markov Model
 
 **Breaking down the virus in terms of:**
 - Disease
@@ -50,8 +52,6 @@
 - Treatment
     - Does hydroxychloroquine work?
     - What are the different vaccines for?
-
-
 
 ## References
 Building phylogenetic trees + other lecture notes
@@ -66,7 +66,6 @@ SARS CoV 2 - Tree of Complete Sequences
 
 Visualization example
 - https://observablehq.com/@analyzer2004/svgtable
-
 
 3b1b Simulation of epidemics
 - https://www.youtube.com/watch?v=gxAaO2rsdIs&vl=en
