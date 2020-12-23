@@ -39,7 +39,7 @@
   - When does the protein start?
   - What other proteins are coded that have not been downloaded?
 
-- Hidden Markov Model (finding russian dudes)
+- Hidden Markov Model
 
 **Breaking down the virus in terms of:**
 - Disease
