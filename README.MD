@@ -35,7 +35,7 @@ As a first step in confirming our understanding, let's verify that the raw Coron
 > 
 > `knownproteins.json`: Known protein sequences gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html) 
 
-
+We will simulate the transcription and translation process with some basic code found here `scripts/translate.js`
 
 
 
