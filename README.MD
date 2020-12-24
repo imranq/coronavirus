@@ -19,15 +19,23 @@ The next step is to convert RNA into amino acids. Like nucleotides, amino acids 
 
 These amino acids are linked together and folded up via electromagnetic forces as proteins. These are incredible structures capable of miracles in the molecular world, such as making reactions happen way faster or in different conditions. More importantly, they are also the mechanism by which Coronaviruses operate.
 
-Like other viruses, SC2 infects the body by injecting its genetic material (RNA in this case) into a human cell. The cell's own ribosomes are  After this has gone on long enough, the cell bursts from excess coronavirus and the new coronaviruses begin the process again in other cells. 
+Like other viruses, SC2 infects the body by injecting its genetic material (RNA in this case) into a human cell. The cell's own ribosomes are used to construct the coronavirus proteins, which go on to assemble with each other. After this has gone on long enough, the cell bursts from excess coronavirus and the new coronaviruses begin the process again in other cells. 
 
 More information in the references section.
 
 ## Verifying Corona Proteins
 
-All known Sars-Cov-2 proteins data available in `data/knownproteins.json` (gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html))
+As a first step in confirming our understanding, let's verify that the raw Coronavirus RNA maps to the known proteins that it generates. As a recap, here is the data used (see data directory):
 
-Full RNA sequences available here in `data/rawrna.json` (Obtained from [NCBI GenBank](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049&Completeness_s=complete))
+> `rawrna.json`: Contains sequenced coronavirus genome
+> 
+> `codonmap.json`: Map between 3-nucleotide sequence to amino acid
+> 
+> `aminoacids.json`: Contains info on 20 amino acids used in cells and their properties
+> 
+> `knownproteins.json`: Known protein sequences gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html) 
+
+
 
 
 
@@ -67,6 +75,10 @@ Full RNA sequences available here in `data/rawrna.json` (Obtained from [NCBI Gen
 ## References
 
 Genetic Data Sources
+
+All known Sars-Cov-2 proteins data available in `data/knownproteins.json` (gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html))
+
+Full RNA sequences available here in `data/rawrna.json` (Obtained from [NCBI GenBank](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049&Completeness_s=complete))
 
 Building phylogenetic trees + other lecture notes
 - https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/download/lectures/PCB_Lect11_Phylogen_Trees.pdf
