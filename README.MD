@@ -1,15 +1,13 @@
 ## Analyzing the Coronavirus Genome
 **![Alt text](public/covidimg.png?raw=true "Title")**
 
-## Description
+## Why study the Coronavirus?
 
-The Coronavirus, or SARS-CoV-2 (SC2), is a virus that infects humans and causes a disease referred to as COVID19. While most people infected with this virus have no symptoms, others suffer severe flu-like conditions and shortness of breath. How does something that cannot even be classified as "living" create such disturbing consequences? Our goal is to analyze the SARS-CoV-2 genome from first principles so we can understand how it operates and what makes its behaviour so strange.
+The Coronavirus, or SARS-CoV-2 (SC2), is a virus that infects humans and causes a disease referred to as COVID19. While most people infected with this virus have no symptoms, others suffer severe flu-like conditions and shortness of breath. How does something that cannot even be classified as "living" create such disturbing consequences? Our goal is to analyze the SARS-CoV-2 genome from first principles and computer science so we can understand how it operates and what makes its behaviour so strange.
 
 All living things, while incredibly mysterious in aggregate, are all composed of cells. Cells, in turn, have been well studied by biologists and other scientists. In fact, cell follow just 3 basic principles: they hold genetic material in the form of DNA, that genetic material is translated into amino acid sequences, and those amino acid sequences fold up into unique shapes which determine their respective functions. This drives all the cell processes necessary for life. While this description is just scratching the surface of the rich complexity in a cell, it is all we need to understand the basic behavior of SC2.
 
-Like other viruses, SC2 infects the body by injecting its genetic material (RNA in this case) into a human cell. As mentioned above, cells typically read their own DNA to make the proteins that drive their processes, but in this case SC2 introduces RNA such that the cell's own tools are used to read and translate it into more SC2 virus. After this has gone on long enough, the cell bursts from excess coronavirus and the new coronaviruses begin the process again in other cells. 
-
-### Going from Corona RNA to Corona Proteins
+## Going from Corona RNA to Corona Proteins
 
 How does the coronavirus genetic material make more coronavirus? 
 
@@ -17,13 +15,21 @@ To answer this, let's first look at how a normal cells processes genetic materia
 
 DNA is useless if the rest of the cell cannot read it for instructions. However, DNA cannot move in and out of the nucleus (and you wouldn't want it to either, its too crucial!), so we need a "messenger" that can send a signal to build the proteins the cell needs. The cell solves this with RNA. Like DNA, RNA is composed of nucleotides, but with one difference: RNA replaces Thymine with Uracil, another nucleotide. A sequence of DNA like `ATGAGTGTTATTGC` would be converted to `AUGAGUGUUAUUGC` The cell translates its DNA into RNA which can move out of the nucleus and finally start work.
 
-The next step is to convert RNA into amino acids. Like nucleotides, amino acids are a type of alphabet for the cell, but this time for spelling out proteins. Regions of RNA like `AUGAGUGUUAUUGC`
+The next step is to convert RNA into amino acids. Like nucleotides, amino acids are a type of alphabet for the cell, but this time for spelling out proteins. You can see all the amino acids and their properties in `data/aminoacids.json`. Regions of RNA like `AUGAGUGUUAUUGC` are processed through ribosomes and paired with amino acids based on every 3-nucleotide sequence. So the ribosome will look at a section like `AGU` which would correspond with the amino acid `Serine` which is a polar non-charged molecule with the linear formula `HO-CH2-CH(NH2)-COOH`. The ribosome starts coding when it encounters `AUG` and stops at a stop codon like `UAA`. The codons and their corresponding amino acids are shown in `data/codonmap.json`
 
-Many researchers have already sequence
+These amino acids are linked together and folded up via electromagnetic forces as proteins. These are incredible structures capable of miracles in the molecular world, such as making reactions happen way faster or in different conditions. More importantly, they are also the mechanism by which Coronaviruses operate.
+
+Like other viruses, SC2 infects the body by injecting its genetic material (RNA in this case) into a human cell. The cell's own ribosomes are  After this has gone on long enough, the cell bursts from excess coronavirus and the new coronaviruses begin the process again in other cells. 
+
+More information in the references section.
+
+## Verifying Corona Proteins
 
 All known Sars-Cov-2 proteins data available in `data/knownproteins.json` (gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html))
 
 Full RNA sequences available here in `data/rawrna.json` (Obtained from [NCBI GenBank](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049&Completeness_s=complete))
+
+
 
 - Find where the proteins position themselves in the full sequence
 - Locate positions of coding regions in RNA (generate visualization)
@@ -59,6 +65,9 @@ Full RNA sequences available here in `data/rawrna.json` (Obtained from [NCBI Gen
     - What are the different vaccines for?
 
 ## References
+
+Genetic Data Sources
+
 Building phylogenetic trees + other lecture notes
 - https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/download/lectures/PCB_Lect11_Phylogen_Trees.pdf
 - https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#lectures
@@ -71,20 +80,30 @@ SARS CoV 2 - Tree of Complete Sequences
 Visualization example
 - https://observablehq.com/@analyzer2004/svgtable
 
-3b1b Simulation of epidemics
-- https://www.youtube.com/watch?v=gxAaO2rsdIs&vl=en
-- R, travel restrictions, social distancing, central hubs,
-- Second wave
 
-Other open source resources
-- http://open-source-covid-19.weileizeng.com/
-- https://github.com/soroushchehresa/awesome-coronavirus
-- George Hotz stream on Covid19
-  - https://github.com/geohot/corona
+Open Source Resources:
+
+George Hotz Covid19: https://github.com/geohot/corona
+
+Other open source resources: http://open-source-covid-19.weileizeng.com/
+
+Awesome-Coronavirus https://github.com/soroushchehresa/awesome-coronavirus
 
 Labs
 - https://www.uniprot.org/uniprot/Q0ZJN1
 
-## Textbook: Life: Science of Biology
+Learning the Biology
+
+Textbook: Life: Science of Biology
+
+EdX Biology Course (see translation and transcription)
+- https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3
+
+MIT OCW Biology 
+- https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/index.htm
+- https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/index.htm
+
+
+Biology basics - https://www.khanacademy.org/science/biology
 
 Shoutout to the Harvard Extension BIOS E-1A Course!
