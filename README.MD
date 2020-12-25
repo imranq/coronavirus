@@ -1,4 +1,17 @@
 ## Analyzing the Coronavirus Genome
+
+How to use:
+
+> `rawrna.json`: Contains sequenced coronavirus genome
+> 
+> `codonmap.json`: Map between 3-nucleotide sequence to amino acid
+> 
+> `aminoacids.json`: Contains info on 20 amino acids used in cells and their properties
+> 
+> `knownproteins.json`: Known protein sequences gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html) 
+
+Run `translate.js` to grab the coded proteins.
+
 **![Alt text](public/covidimg.png?raw=true "Title")**
 
 ## Why study the Coronavirus?
@@ -37,44 +50,9 @@ As a first step in confirming our understanding, let's verify that the raw Coron
 
 We will simulate the transcription and translation process with some basic code found here `scripts/translate.js`
 
-
-
-- Find where the proteins position themselves in the full sequence
-- Locate positions of coding regions in RNA (generate visualization)
-- If the protein sequences overlap
-- Where the protein starts and stops translation in the RNA sequence
-
-#### Understand Viral Proteins Translated
-- Composition of amino acids in proteins
-- Predicing protein sub-structures such as alpha helices
-
-#### Understand evolution of virus over time
-- Understanding the path of mutation and how the proteins change
-
-#### Extrapolating / Wild Ideas
-- Deep learning to predict the next base pair in viral RNA
-- Deep learning to detect which sequences in Viral RNA will code proteins
-
-## Notes
-- Sequencing coronavirus in home lab: https://nanoporetech.com/products/minion
-- Converting the RNA sequence: 
-  - When does the protein start?
-  - What other proteins are coded that have not been downloaded?
-- Hidden Markov Model
-
-**Breaking down the virus in terms of:**
-- Disease
-- Symptoms
-  - Light, Medium, Severe
-  - What are the common factors between each?
-- Public Health / Epidemiology
-- Treatment
-    - Does hydroxychloroquine work?
-    - What are the different vaccines for?
-
 ## References
 
-Genetic Data Sources
+**Genetic Data Sources**
 
 All known Sars-Cov-2 proteins data available in `data/knownproteins.json` (gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html))
 
@@ -93,7 +71,7 @@ Visualization example
 - https://observablehq.com/@analyzer2004/svgtable
 
 
-Open Source Resources:
+**Open Source Resources**
 
 George Hotz Covid19: https://github.com/geohot/corona
 
@@ -104,7 +82,8 @@ Awesome-Coronavirus https://github.com/soroushchehresa/awesome-coronavirus
 Labs
 - https://www.uniprot.org/uniprot/Q0ZJN1
 
-Learning the Biology
+
+**Biology Resources**
 
 Textbook: Life: Science of Biology
 
