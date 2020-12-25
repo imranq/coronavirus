@@ -1,0 +1,182 @@
+[
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mlsaltqyn",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 101,
+        "rnaEnd": 131,
+        "editDistance": 33,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "Papain-like proteinase.",
+        "translatedSequence": "meslvpgfnekthvqlslpvlqvrdvlvrgfgdsveevlsearqhlkdgtcglvevekgvlpqleqpyvfikrsdartaphghvmvelvaelegiqygrsgetlgvlvphvgeipvayrkvllrkngnkgagghsygadlksfdlgdelgtdpyedfqenwntkhssgvtrelmrelnggaytryvdnnfcgpdgyplecikdllaragkasctlseqldfidtkrgvyccreheheiawyterseksyelqtpfeiklakkfdtfngecpnfvfplnsiiktiqprvekkkldgfmgrirsvypvaspnecnqmclstlmkcdhcgetswqtgdfvkatcefcgtenltkegattcgylpqnavvkiycpachnsevgpehslaeyhnesglktilrkggrtiafggcvfsyvgchnkcaywvprasanigcnhtgvvgegseglndnlleilqkekvninivgdfklneeiaiilasfsastsafvetvkgldykafkqivescgnfkvtkgkakkgawnigeqksilsplyafaseaarvvrsifsrtletaqnsvrvlqkaaitildgisqyslrlidammftsdlatnnlvvmayitggvvqltsqwltnifgtvyeklkpvldwleekfkegveflrdgweivkfistcaceivggqivtcakeikesvqtffklvnkflalcadsiiiggaklkalnlgetfvthskglyrkcvksreetgllmplkapkeiiflegetlptevlteevvlktgdlqpleqptseaveaplvgtpvcinglmlleikdtekycalapnmmvtnntftlkggaptkvtfgddtvievqgyksvnitfelderidkvlnekcsaytvelgtevnefacvvadaviktlqpvselltplgidldewsmatyylfdesgefklashmycsfyppdedeeegdceeeefepstqyeygteddyqgkplefgatsaalqpeeeqeedwldddsqqtvgqqdgsednqtttiqtivevqpqlemeltpvvqtievnsfsgylkltdnvyiknadiveeakkvkptvvvnaanvylkhgggvagalnkatnnamqvesddyiatngplkvggscvlsghnlakhclhvvgpnvnkgediqllksayenfnqhevllapllsagifgadpihslrvcvdtvrtnvylavfdknlydklvssflemksekqveqkiaeipkeevkpfiteskpsveqrkqddkkikacveevtttleetkfltenlllyidingnlhpdsatlvsdiditflkkdapyivgdvvqegvltavviptkkaggttemlakalrkvptdnyittypgqglngytveeaktvlkkcksafyilpsiisnekqeilgtvswnlremlahaeetrklmpvcvetkaivstiqrkykgikiqegvvdygarfyfytskttvaslintlndlnetlvtmplgyvthglnleeaarymrslkvpatvsvsspdavtayngyltsssktpeehfietislagsykdwsysgqstqlgieflkrgdksvyytsnpttfhldgevitfdnlktllslrevrtikvfttvdninlhtqvvdmsmtygqqfgptyldgadvtkikphnshegktfyvlpnddtlrveafeyyhttdpsflgrymsalnhtkkwkypqvngltsikwadnncylatalltlqqielkfnppalqdayyrarageaanfcalilaycnktvgelgdvretmsylfqhanldsckrvlnvvcktcgqqqttlkgveavmymgtlsyeqfkkgvqipctcgkqatkylvqqespfvmmsappaqyelkhgtftcaseytgnyqcghykhitsketlycidgalltksseykgpitdvfykensytttikpvtykldgvvcteidpkldnyykkdnsyfteqpidlvpnqpypnasfdnfkfvcdnikfaddlnqltgykkpasrelkvtffpdlngdvvaidykhytpsfkkgakllhkpivwhvnnatnkatykpntwcirclwstkpvetsnsfdvlksedaqgmdnlacedlkpvseevvenptiqkdvlecnvkttevvgdiilkpannslkiteevghtdlmaayvdnssltikkpnelsrvlglktlathglaavnsvpwdtianyakpflnkvvstttnivtrclnrvctnympyfftlllqlctftrstnsrikasmpttiakntvksvgkfcleasfnylkspnfskliniiiwflllsvclgsliystaalgvlmsnlgmpsyctgyregylnstnvtiatyctgsipcsvclsgldsldtypsletiqitissfkwdltafglvaewflayilftrffyvlglaaimqlffsyfavhfisnswlmwliinlvqmapisamvrmyiffasfyyvwksyvhvvdgcnsstcmmcykrnratrvecttivngvrrsfyvyanggkgfcklhnwncvncdtfcagstfisdevardlslqfkrpinptdqssyivdsvtvkngsihlyfdkagqktyerhslshfvnldnlranntkgslpinvivfdgkskceessaksasvyysqlmcqpillldqalvsdvgdsaevavkmfdayvntfsstfnvpmeklktlvataeaelaknvsldnvlstfisaarqgfvdsdvetkdvveclklshqsdievtgdscnnymltynkvenmtprdlgacidcsarhinaqvakshnialiwnvkdfmslseqlrkqirsaakknnlpfkltcattrqvvnvvttkialkggkivnnwlkqlikvtlvflfvaaifylitpvhvmskhtdfsseiigykaidggvtrdiastdtcfankhadfdtwfsqrggsytndkacpliaavitrevgfvvpglpgtilrttngdflhflprvfsavgnicytpsklieytdfatsacvlaaectifkdasgkpvpycydtnvlegsvayeslrpdtryvlmdgsiiqfpntylegsvrvvttfdseycrhgtcerseagvcvstsgrwvlnndyyrslpgvfcgvdavnlltnmftpliqpigaldisasivaggivaivvtclayyfmrfrrafgeyshvvafntllflmsftvlcltpvysflpgvysviylyltfyltndvsflahiqwmvmftplvpfwitiayiicistkhfywffsnylkrrvvfngvsfstfeeaalctfllnkemylklrsdvllpltqynrylalynkykyfsgamdttsyreaacchlakalndfsnsgsdvlyqppqtsitsavlqsgfrkmafpsgkvegcmvqvtcgtttlnglwlddvvycprhvictsedmlnpnyedllirksnhnflvqagnvqlrvighsmqncvlklkvdtanpktpkykfvriqpgqtfsvlacyngspsgvyqcamrpnftikgsflngscgsvgfnidydcvsfcymhhmelptgvhagtdlegnfygpfvdrqtaqaagtdttitvnvlawlyaavingdrwflnrftttlndfnlvamkynyepltqdhvdilgplsaqtgiavldmcaslkellqngmngrtilgsalledeftpfdvvrqcsgvtfqsavkrtikgthhwllltiltsllvlvqstqwslffflyenaflpfamgiiamsafammfvkhkhaflclfllpslatvayfnmvympaswvmrimtwldmvdtslsgfklkdcvmyasavvllilmtartvyddgarrvwtlmnvltlvykvyygnaldqaismwaliisvtsnysgvvttvmflargivfmcveycpiffitgntlqcimlvycflgyfctcyfglfcllnryfrltlgvydylvstqefrymnsqgllppknsidafklnikllgvggkpcikvatvqskmsdvkctsvvllsvlqqlrvesssklwaqcvqlhndillakdtteafekmvsllsvllsmqgavdinklceemldnratlqaiasefsslpsyaafataqeayeqavangdsevvlkklkkslnvaksefdrdaamqrklekmadqamtqmykqarsedkrakvtsamqtmlftmlrkldndalnniinnardgcvplniiplttaaklmvvipdyntykntcdgttftyasalweiqqvvdadskivqlseismdnspnlawplivtalransavklqnnelspvalrqmscaagttqtactddnalayynttkggrfvlallsdlqdlkwarfpksdgtgtiyteleppcrfvtdtpkgpkvkylyfikglnnlnrgmvlgslaatvrlqagnatevpanstvlsfcafavdaakaykdylasggqpitncvkmlcthtgtgqaitvtpeanmdqesfggascclycrchidhpnpkgfcdlkgkyvqipttcandpvgftlkntvctvcgmwkgygcscdqlrepmlqsadaqsflngfav",
+        "knownSequence": "aptkvtfgddtvievqgyksvnitfelderidkvlnekcsaytvelgtevnefacvvadaviktlqpvselltplgidldewsmatyylfdesgefklashmycsfyppdedeeegdceeeefepstqyeygteddyqgkplefgatsaalqpeeeqeedwldddsqqtvgqqdgsednqtttiqtivevqpqlemeltpvvqtievnsfsgylkltdnvyiknadiveeakkvkptvvvnaanvylkhgggvagalnkatnnamqvesddyiatngplkvggscvlsghnlakhclhvvgpnvnkgediqllksayenfnqhevllapllsagifgadpihslrvcvdtvrtnvylavfdknlydklvssflemksekqveqkiaeipkeevkpfiteskpsveqrkqddkkikacveevtttleetkfltenlllyidingnlhpdsatlvsdiditflkkdapyivgdvvqegvltavviptkkaggttemlakalrkvptdnyittypgqglngytveeaktvlkkcksafyilpsiisnekqeilgtvswnlremlahaeetrklmpvcvetkaivstiqrkykgikiqegvvdygarfyfytskttvaslintlndlnetlvtmplgyvthglnleeaarymrslkvpatvsvsspdavtayngyltsssktpeehfietislagsykdwsysgqstqlgieflkrgdksvyytsnpttfhldgevitfdnlktllslrevrtikvfttvdninlhtqvvdmsmtygqqfgptyldgadvtkikphnshegktfyvlpnddtlrveafeyyhttdpsflgrymsalnhtkkwkypqvngltsikwadnncylatalltlqqielkfnppalqdayyrarageaanfcalilaycnktvgelgdvretmsylfqhanldsckrvlnvvcktcgqqqttlkgveavmymgtlsyeqfkkgvqipctcgkqatkylvqqespfvmmsappaqyelkhgtftcaseytgnyqcghykhitsketlycidgalltksseykgpitdvfykensytttikpvtykldgvvcteidpkldnyykkdnsyfteqpidlvpnqpypnasfdnfkfvcdnikfaddlnqltgykkpasrelkvtffpdlngdvvaidykhytpsfkkgakllhkpivwhvnnatnkatykpntwcirclwstkpvetsnsfdvlksedaqgmdnlacedlkpvseevvenptiqkdvlecnvkttevvgdiilkpannslkiteevghtdlmaayvdnssltikkpnelsrvlglktlathglaavnsvpwdtianyakpflnkvvstttnivtrclnrvctnympyfftlllqlctftrstnsrikasmpttiakntvksvgkfcleasfnylkspnfskliniiiwflllsvclgsliystaalgvlmsnlgmpsyctgyregylnstnvtiatyctgsipcsvclsgldsldtypsletiqitissfkwdltafglvaewflayilftrffyvlglaaimqlffsyfavhfisnswlmwliinlvqmapisamvrmyiffasfyyvwksyvhvvdgcnsstcmmcykrnratrvecttivngvrrsfyvyanggkgfcklhnwncvncdtfcagstfisdevardlslqfkrpinptdqssyivdsvtvkngsihlyfdkagqktyerhslshfvnldnlranntkgslpinvivfdgkskceessaksasvyysqlmcqpillldqalvsdvgdsaevavkmfdayvntfsstfnvpmeklktlvataeaelaknvsldnvlstfisaarqgfvdsdvetkdvveclklshqsdievtgdscnnymltynkvenmtprdlgacidcsarhinaqvakshnialiwnvkdfmslseqlrkqirsaakknnlpfkltcattrqvvnvvttkialkgg",
+        "rnaStart": 260,
+        "rnaEnd": 13478,
+        "editDistance": 2460,
+        "description": "Responsible for the cleavages located at the N-terminus of the replicase polyprotein. In addition, PL-PRO possesses a deubiquitinating/deISGylating activity and processes both 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains from cellular substrates. Participates together with nsp4 in the assembly of virally-induced cytoplasmic double-membrane vesicles necessary for viral replication. Antagonizes innate immune induction of type I interferon by blocking the phosphorylation, dimerization and subsequent nuclear translocation of host IRF3. Prevents also host NF-kappa-B signaling.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "msytglltstmik",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 13520,
+        "rnaEnd": 13562,
+        "editDistance": 31,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mti",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 13619,
+        "rnaEnd": 13631,
+        "editDistance": 35,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mkkqfiiylrivqlllnmtslsle",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 13679,
+        "rnaEnd": 13754,
+        "editDistance": 29,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "RNA-directed RNA polymerase (RdRp).",
+        "translatedSequence": "mvphisrqrltkytmadlvyalrhfdegncdtlkeilvtynccdddyfnkkdwydfvenpdilrvyanlgervrqallktvqfcdamrnagivgvltldnqdlngnwydfgdfiqttpgsgvpvvdsyysllmpiltltraltaeshvdtdltkpyikwdllkydfteerlklfdryfkywdqtyhpncvnclddrcilhcanfnvlfstvfpltsfgplvrkifvdgvpfvvstgyhfrelgvvhnqdvnlhssrlsfkellvyaadpamhaasgnllldkrttcfsvaaltnnvafqtvkpgnfnkdfydfavskgffkegssvelkhfffaqdgnaaisdydyyrynlptmcdirqllfvvevvdkyfdcydggcinanqvivnnldksagfpfnkwgkarlyydsmsyedqdalfaytkrnviptitqmnlkyaisaknrartvagvsicstmtnrqfhqkllksiaatrgatvvigtskfyggwhnmlktvysdvenphlmgwdypkcdrampnmlrimaslvlarkhttccilshrfyrlanecaqvlsemvmcggslyvkpggtssgdattayansvfnicqavtanvnallstdgnkiadkyvrnlqhrlyeclyrnrdvdtdfvnefyaylrkhfsmmilsddavvcfnstyasqglvasiknfksvlyyqnnvfmseakcwtetdltkgphefcsqhtmlvkqgddyvylpypdpsrilgagcfvddivktdgtlmierfvslaidaypltkhpnqeyadvfhlylqyirklhdeltghmldmysvmltndntsrywepefyeamytphtvlqavgacvlcnsqtslrcgacirrpflcckccydhvistshklvlsvnpyvcnapgcdvtdvtqlylggmsyyckshkppisfplcangqvfglykntcvgsdnvtdfnaiatcdwtnagdyilantcterlklfaaetlkateetfklsygiatvrevlsdrelhlswevgkprpplnrnyvftgyrvtknskvqigeytfekgdygdavvyrgtttyklnvgdyfvltshtvmplsaptlvpqehyvritglyptlnisdefssnvanyqkvgmqkystlqgppgtgkshfaiglalyypsarivytacshaavdalcekalkylpidkcsriipararvecfdkfkvnstleqyvfctvnalpettadivvfdeismatnydlsvvnarlrakhyvyigdpaqlpaprtlltkgtlepeyfnsvcrlmktigpdmflgtcrrcpaeivdtvsalvydnklkahkdksaqcfkmfykgvithdvssainrpqigvvrefltrnpawrkavfispynsqnavaskilglptqtvdssqgseydyviftqttetahscnvnrfnvaitrakvgilcimsdrdlydklqftsleiprrnvatlqaenvtglfkdcskvitglhptqapthlsvdtkfkteglcvdipgipkdmtyrrlismmgfkmnyqvngypnmfitreeairhvrawigfdvegchatreavgtnlplqlgfstgvnlvavptgyvdtpnntdfsrvsakpppgdqfkhliplmykgfpwnvvrikivqmlsdtlknlsdrvvfvlwahgfeltsmkyfvkigpertcclcdrratcfstasdtyacwhhsigfdyvynpfmidvqqwgftgnlqsnhdlycqvhgnahvascdaimtrclavhecfvkrvdwtieypiigdelkinaacrkvqhmvvkaalladkfpvlhdignpkaikcvpqadvewkfydaqpcsdkaykieelfysyathsdkftdgvclfwncnvdrypansivcrfdtrvlsnlnlpgcdggslyvnkhafhtpafdksafvnlkqlpffyysdspceshgkqvvsdidyvplksatcitrcnlggavcrhhaneyrlyldaynmmisagfslwvykqfdtynlwntftrlqslenvafnvvnkghfdgqqgevpvsiinntvytkvdgvdvelfenkttlpvnvafelwakrnikpvpevkilnnlgvdiaantviwdykrdapahistigvcsmtdiakkpteticapltvffdgrvdgqvdlfrnarngvlitegsvkglqpsvgpkqaslngvtligeavktqfnyykkvdgvvqqlpetyftqsrnlqefkprsqmeidflelamdefieryklegyafehivygdfshsqlgglhlliglakrfkespfeledfipmdstvknyfitdaqtgsskcvcsvidlllddfveiiksqdlsvvskvvkvtidyteisfmlwckdghvetfypklqssqawqpgvampnlykmqrmllekcdlqnygdsatlpkgimmnvakytqlcqylntltlavpynmrvihfgagsdkgvapgtavlrqwlptgtllvdsdlndfvsdadstligdcatvhtankwdliisdmydpktknvtkendskegfftyicgfiqqklalggsvaikitehswnadlyklmghfawwtafvtnvnassseafligcnylgkpreqidgyvmhanyifwrntnpiqlssyslfdmskfplklrgtavmslkegqindmilsllskgrliirennrvvissdvlvnn",
+        "knownSequence": "sadaqsflnrvcgvsaarltpcgtgtstdvvyrafdiyndkvagfakflktnccrfqekdeddnlidsyfvvkrhtfsnyqheetiynllkdcpavakhdffkfridgdmvphisrqrltkytmadlvyalrhfdegncdtlkeilvtynccdddyfnkkdwydfvenpdilrvyanlgervrqallktvqfcdamrnagivgvltldnqdlngnwydfgdfiqttpgsgvpvvdsyysllmpiltltraltaeshvdtdltkpyikwdllkydfteerlklfdryfkywdqtyhpncvnclddrcilhcanfnvlfstvfpptsfgplvrkifvdgvpfvvstgyhfrelgvvhnqdvnlhssrlsfkellvyaadpamhaasgnllldkrttcfsvaaltnnvafqtvkpgnfnkdfydfavskgffkegssvelkhfffaqdgnaaisdydyyrynlptmcdirqllfvvevvdkyfdcydggcinanqvivnnldksagfpfnkwgkarlyydsmsyedqdalfaytkrnviptitqmnlkyaisaknrartvagvsicstmtnrqfhqkllksiaatrgatvvigtskfyggwhnmlktvysdvenphlmgwdypkcdrampnmlrimaslvlarkhttccslshrfyrlanecaqvlsemvmcggslyvkpggtssgdattayansvfnicqavtanvnallstdgnkiadkyvrnlqhrlyeclyrnrdvdtdfvnefyaylrkhfsmmilsddavvcfnstyasqglvasiknfksvlyyqnnvfmseakcwtetdltkgphefcsqhtmlvkqgddyvylpypdpsrilgagcfvddivktdgtlmierfvslaidaypltkhpnqeyadvfhlylqyirklhdeltghmldmysvmltndntsrywepefyeamytphtvlq",
+        "rnaStart": 13762,
+        "rnaEnd": 21550,
+        "editDistance": 1883,
+        "description": "Responsible for replication and transcription of the viral RNA genome.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "Spike glycoprotein (S).",
+        "translatedSequence": "mfvflvllplvssqcvnlttrtqlppaytnsftrgvyypdkvfrssvlhstqdlflpffsnvtwfhaihvsgtngtkrfdnpvlpfndgvyfasteksniirgwifgttldsktqsllivnnatnvvikvcefqfcndpflgvyyhknnkswmesefrvyssannctfeyvsqpflmdlegkqgnfknlrefvfknidgyfkiyskhtpinlvrdlpqgfsaleplvdlpiginitrfqtllalhrsyltpgdsssgwtagaaayyvgylqprtfllkynengtitdavdcaldplsetkctlksftvekgiyqtsnfrvqptesivrfpnitnlcpfgevfnatrfasvyawnrkrisncvadysvlynsasfstfkcygvsptklndlcftnvyadsfvirgdevrqiapgqtgkiadynyklpddftgcviawnsnnldskvggnynylyrlfrksnlkpferdisteiyqagstpcngvegfncyfplqsygfqptngvgyqpyrvvvlsfellhapatvcgpkkstnlvknkcvnfnfngltgtgvltesnkkflpfqqfgrdiadttdavrdpqtleilditpcsfggvsvitpgtntsnqvavlyqgvnctevpvaihadqltptwrvystgsnvfqtragcligaehvnnsyecdipigagicasyqtqtnsprrarsvasqsiiaytmslgaensvaysnnsiaiptnftisvtteilpvsmtktsvdctmyicgdstecsnlllqygsfctqlnraltgiaveqdkntqevfaqvkqiyktppikdfggfnfsqilpdpskpskrsfiedllfnkvtladagfikqygdclgdiaardlicaqkfngltvlpplltdemiaqytsallagtitsgwtfgagaalqipfamqmayrfngigvtqnvlyenqklianqfnsaigkiqdslsstasalgklqdvvnqnaqalntlvkqlssnfgaissvlndilsrldkveaevqidrlitgrlqslqtyvtqqliraaeirasanlaatkmsecvlgqskrvdfcgkgyhlmsfpqsaphgvvflhvtyvpaqeknfttapaichdgkahfpregvfvsngthwfvtqrnfyepqiittdntfvsgncdvvigivnntvydplqpeldsfkeeldkyfknhtspdvdlgdisginasvvniqkeidrlnevaknlneslidlqelgkyeqyikwpwyiwlgfiagliaivmvtimlccmtsccsclkgccscgscckfdeddsepvlkgvklhyt",
+        "knownSequence": "mfvflvllplvssqcvnlttrtqlppaytnsftrgvyypdkvfrssvlhstqdlflpffsnvtwfhaihvsgtngtkrfdnpvlpfndgvyfasteksniirgwifgttldsktqsllivnnatnvvikvcefqfcndpflgvyyhknnkswmesefrvyssannctfeyvsqpflmdlegkqgnfknlrefvfknidgyfkiyskhtpinlvrdlpqgfsaleplvdlpiginitrfqtllalhrsyltpgdsssgwtagaaayyvgylqprtfllkynengtitdavdcaldplsetkctlksftvekgiyqtsnfrvqptesivrfpnitnlcpfgevfnatrfasvyawnrkrisncvadysvlynsasfstfkcygvsptklndlcftnvyadsfvirgdevrqiapgqtgkiadynyklpddftgcviawnsnnldskvggnynylyrlfrksnlkpferdisteiyqagstpcngvegfncyfplqsygfqptngvgyqpyrvvvlsfellhapatvcgpkkstnlvknkcvnfnfngltgtgvltesnkkflpfqqfgrdiadttdavrdpqtleilditpcsfggvsvitpgtntsnqvavlyqdvnctevpvaihadqltptwrvystgsnvfqtragcligaehvnnsyecdipigagicasyqtqtnsprrarsvasqsiiaytmslgaensvaysnnsiaiptnftisvtteilpvsmtktsvdctmyicgdstecsnlllqygsfctqlnraltgiaveqdkntqevfaqvkqiyktppikdfggfnfsqilpdpskpskrsfiedllfnkvtladagfikqygdclgdiaardlicaqkfngltvlpplltdemiaqytsallagtitsgwtfgagaalqipfamqmayrfngigvtqnvlyenqklianqfnsaigkiqdslsstasalgklqdvvnqnaqalntlvkqlssnfgaissvlndilsrldkveaevqidrlitgrlqslqtyvtqqliraaeirasanlaatkmsecvlgqskrvdfcgkgyhlmsfpqsaphgvvflhvtyvpaqeknfttapaichdgkahfpregvfvsngthwfvtqrnfyepqiittdntfvsgncdvvigivnntvydplqpeldsfkeeldkyfknhtspdvdlgdisginasvvniqkeidrlnevaknlneslidlqelgkyeqyikwpwyiwlgfiagliaivmvtimlccmtsccsclkgccscgscckfdeddsepvlkgvklhyt",
+        "rnaStart": 21557,
+        "rnaEnd": 25379,
+        "editDistance": 1,
+        "description": " Spike protein S1 (residue 13-685): attaches the virion to the cell membrane by interacting with host receptor, initiating the infection. Binding to human ACE2 receptor and internalization of the virus into the endosomes of the host cell induces conformational changes in the Spike glycoprotein (PubMed:32142651, PubMed:32075877, PubMed:32155444). Uses also human TMPRSS2 for priming in human lung cells which is an essential step for viral entry (PubMed:32142651). Proteolysis by cathepsin CTSL may unmask the fusion peptide of S2 and activate membranes fusion within endosomes  Spike protein S2 (residue 686-1273): mediates fusion of the virion and cellular membranes by acting as a class I viral fusion protein. Under the current model, the protein has at least three conformational states: pre-fusion native state, pre-hairpin intermediate state, and post-fusion hairpin state. During viral and target cell membrane fusion, the coiled coil regions (heptad repeats) assume a trimer-of-hairpins structure, positioning the fusion peptide in close proximity to the C-terminal region of the ectodomain. The formation of this structure appears to drive apposition and subsequent fusion of viral and target cell membranes.  Spike protein S2' (residue 816-1273): acts as a viral fusion peptide which is unmasked following S2 cleavage occurring upon virus endocytosis.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF3a.",
+        "translatedSequence": "mdlfmriftigtvtlkqgeikdatpsdfvratatipiqaslpfgwlivgvallavfqsaskiitlkkrwqlalskgvhfvcnllllfvtvyshlllvaagleapflylyalvyflqsinfvriimrlwlcwkcrsknpllydanyflcwhtncydycipynsvtssivitsgdgttspisehdyqiggytekwesgvkdcvvlhsyftsdyyqlystqlstdtgvehvtffiynkivdepeehvqihtidgssgvvnpvmepiydepttttsvpl",
+        "knownSequence": "mdlfmriftigtvtlkqgeikdatpsdfvratatipiqaslpfgwlivgvallavfqsaskiitlkkrwqlalskgvhfvcnllllfvtvyshlllvaagleapflylyalvyflqsinfvriimrlwlcwkcrsknpllydanyflcwhtncydycipynsvtssivitsgdgttspisehdyqiggytekwesgvkdcvvlhsyftsdyyqlystqlstdtgvehvtffiynkivdepeehvqihtidgssgvvnpvmepiydepttttsvpl",
+        "rnaStart": 25387,
+        "rnaEnd": 26215,
+        "editDistance": 0,
+        "description": "Forms homotetrameric potassium sensitive ion channels (viroporin) and may modulate virus release. Up-regulates expression of fibrinogen subunits FGA, FGB and FGG in host lung epithelial cells. Induces apoptosis in cell culture. Downregulates the type 1 interferon receptor by inducing serine phosphorylation within the IFN alpha-receptor subunit 1 (IFNAR1) degradation motif and increasing IFNAR1 ubiquitination  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mstnlcthsfrkrqvr",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 26225,
+        "rnaEnd": 26276,
+        "editDistance": 30,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "M.",
+        "translatedSequence": "madsngtitveelkklleqwnlvigflfltwicllqfayanrnrflyiikliflwllwpvtlacfvlaavyrinwitggiaiamaclvglmwlsyfiasfrlfartrsmwsfnpetnillnvplhgtiltrplleselvigavilrghlriaghhlgrcdikdlpkeitvatsrtlsyyklgasqrvagdsgfaaysryrignyklntdhssssdniallvq",
+        "knownSequence": "madsngtitveelkklleqwnlvigflfltwicllqfayanrnrflyiikliflwllwpvtlacfvlaavyrinwitggiaiamaclvglmwlsyfiasfrlfartrsmwsfnpetnillnvplhgtiltrplleselvigavilrghlriaghhlgrcdikdlpkeitvatsrtlsyyklgasqrvagdsgfaaysryrignyklntdhssssdniallvq",
+        "rnaStart": 26517,
+        "rnaEnd": 27186,
+        "editDistance": 0,
+        "description": "Component of the viral envelope that plays a central role in virus morphogenesis and assembly via its interactions with other viral proteins.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF6.",
+        "translatedSequence": "mfhlvdfqvtiaeilliimrtfkvsiwnldyiinliiknlsksltenkysqldeeqpmeid",
+        "knownSequence": "mfhlvdfqvtiaeilliimrtfkvsiwnldyiinliiknlsksltenkysqldeeqpmeid",
+        "rnaStart": 27196,
+        "rnaEnd": 27382,
+        "editDistance": 0,
+        "description": "Disrupts cell nuclear import complex formation by tethering karyopherin alpha 2 and karyopherin beta 1 to the membrane. Retention of import factors at the ER/Golgi membrane leads to a loss of transport into the nucleus. Thereby prevents STAT1 nuclear translocation in response to interferon signaling, thus blocking the expression of interferon stimulated genes (ISGs) that display multiple antiviral activities.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF7a.",
+        "translatedSequence": "mkiilflalitlatcelyhyqecvrgttvllkepcssgtyegnspfhpladnkfaltcfstqfafacpdgvkhvyqlrarsvspklfirqeevqelyspiflivaaivfitlcftlkrkte",
+        "knownSequence": "mkiilflalitlatcelyhyqecvrgttvllkepcssgtyegnspfhpladnkfaltcfstqfafacpdgvkhvyqlrarsvspklfirqeevqelyspiflivaaivfitlcftlkrkte",
+        "rnaStart": 27388,
+        "rnaEnd": 27754,
+        "editDistance": 0,
+        "description": "Non-structural protein which is dispensable for virus replication in cell culture.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mliifwfslelqdhnetcha",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 27819,
+        "rnaEnd": 27882,
+        "editDistance": 29,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF8.",
+        "translatedSequence": "mkflvflgiittvaafhqecslqsctqhqpyvvddpcpihfyskwyirvgarksaplielcvdeagskspiqyidignytvsclpftincqepklgslvvrcsfyedfleyhdvrvvldfi",
+        "knownSequence": "mkflvflgiittvaafhqecslqsctqhqpyvvddpcpihfyskwyirvgarksaplielcvdeagskspiqyidignytvsclpftincqepklgslvvrcsfyedfleyhdvrvvldfi",
+        "rnaStart": 27888,
+        "rnaEnd": 28254,
+        "editDistance": 0,
+        "description": "May play a role in host-virus interaction. Similar to some Bat coronavirus ns8 genes, but is entirely different from SARS ns8a or ns8b.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "N.",
+        "translatedSequence": "msdngpqnqrnapritfggpsdstgsnqngersgarskqrrpqglpnntaswftaltqhgkedlkfprgqgvpintnsspddqigyyrratrrirggdgkmkdlsprwyfyylgtgpeaglpygankdgiiwvategalntpkdhigtrnpannaaivlqlpqgttlpkgfyaegsrggsqassrsssrsrnssrnstpgssrgtsparmagnggdaalalllldrlnqleskmsgkgqqqqgqtvtkksaaeaskkprqkrtatkaynvtqafgrrgpeqtqgnfgdqelirqgtdykhwpqiaqfapsasaffgmsrigmevtpsgtwltytgaiklddkdpnfkdqvillnkhidayktfpptepkkdkkkkadetqalpqrqkkqqtvtllpaadlddfskqlqqsmssadstqa",
+        "knownSequence": "msdngpqnqrnapritfggpsdstgsnqngersgarskqrrpqglpnntaswftaltqhgkedlkfprgqgvpintnsspddqigyyrratrrirggdgkmkdlsprwyfyylgtgpeaglpygankdgiiwvategalntpkdhigtrnpannaaivlqlpqgttlpkgfyaegsrggsqassrsssrsrnssrnstpgssrgtsparmagnggdaalalllldrlnqleskmsgkgqqqqgqtvtkksaaeaskkprqkrtatkaynvtqafgrrgpeqtqgnfgdqelirqgtdykhwpqiaqfapsasaffgmsrigmevtpsgtwltytgaiklddkdpnfkdqvillnkhidayktfpptepkkdkkkkadetqalpqrqkkqqtvtllpaadlddfskqlqqsmssadstqa",
+        "rnaStart": 28268,
+        "rnaEnd": 29528,
+        "editDistance": 0,
+        "description": "Packages the positive strand viral genome RNA into a helical ribonucleocapsid (RNP) and plays a fundamental role during virion assembly through its interactions with the viral genome and membrane protein M. Plays an important role in enhancing the efficiency of subgenomic viral RNA transcription as well as viral replication.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mqttqgrwai",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 29532,
+        "rnaEnd": 29565,
+        "editDistance": 34,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mnsrnyiaqvdvvnfnlt",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 29612,
+        "rnaEnd": 29669,
+        "editDistance": 20,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mlgraaymeep",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 29765,
+        "rnaEnd": 29801,
+        "editDistance": 34,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mckinfssaipm",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 29800,
+        "rnaEnd": 29839,
+        "editDistance": 31,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    },
+    {
+        "name": "ORF10.",
+        "translatedSequence": "mtkkk",
+        "knownSequence": "mgyinvfafpftiyslllcrmnsrnyiaqvdvvnfnlt",
+        "rnaStart": 29860,
+        "rnaEnd": 29878,
+        "editDistance": 36,
+        "description": "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.  [GO term predictions] [Ligand binding site predictions]"
+    }
+]

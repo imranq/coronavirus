@@ -1,4 +1,3 @@
-const levenshtein = require("js-levenshtein")
 const fs = require("fs")
 
 coronaRna = JSON.parse(fs.readFileSync("data/rawrna.json"))
