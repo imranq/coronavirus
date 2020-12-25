@@ -50,11 +50,15 @@ As a first step in confirming our understanding, let's verify that the raw Coron
 
 We will simulate the transcription and translation process with some basic code found here `scripts/translate.js`
 
+The resulting proteins can be found here: `processed/translatedProteins.json`
+
+But something seems wrong if we compare those proteins with the ones sequenced by a lab (let's use Zhang lab sequences) which are here: `data/knownproteins.json`. There are quite a few more than our proteins and with different sequences. So why is there such a big difference?
+
 ## Post-translational modifications
 
 Why do so many coronavirus proteins not start with methionine?
 
-After all, many of the factors 
+
 
 ## References
 
@@ -68,17 +72,15 @@ Building phylogenetic trees + other lecture notes
 - https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/download/lectures/PCB_Lect11_Phylogen_Trees.pdf
 - https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#lectures
 
-SARS CoV 2 - Nucleotide, Coding Region, and Protein sequences
+Zhan Lab - SARS CoV 2 - Nucleotide, Coding Region, and Protein sequences
+https://zhanglab.ccmb.med.umich.edu/COVID-19/
 
 SARS CoV 2 - Tree of Complete Sequences
 - https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/precomptree
 
-Zhang Lab Coronavirus Protein Data
-https://zhanglab.ccmb.med.umich.edu/COVID-19/
+Labs Protein Databank: https://www.uniprot.org/uniprot/Q0ZJN1
 
-
-
-**Open Source Resources**
+**Open Source Libraries**
 
 George Hotz Covid19: https://github.com/geohot/corona
 
@@ -86,8 +88,7 @@ Other open source resources: http://open-source-covid-19.weileizeng.com/
 
 Awesome-Coronavirus https://github.com/soroushchehresa/awesome-coronavirus
 
-Labs: https://www.uniprot.org/uniprot/Q0ZJN1
-
+Deep Learning Coronavirus Cure: https://github.com/mattroconnor/deep_learning_coronavirus_cure
 
 **Biology Resources**
 
@@ -103,4 +104,9 @@ MIT OCW Biology
 
 Biology basics - https://www.khanacademy.org/science/biology
 
-Shoutout to the Harvard Extension BIOS E-1A Course!
+**Other Resources**
+
+Turning Genome Data into Proteins 
+https://biology.stackexchange.com/questions/19658/turning-publicly-available-genome-data-into-proteins?rq=1
+
+And thanks to the Harvard Extension Biology team for providing a lot of the background for this post!
