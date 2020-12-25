@@ -1,0 +1,476 @@
+[
+  {
+    "#": "1",
+    "aminoAcidSequence": ">QHD43415_1 (L=180)\n" +
+      " MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLS\n" +
+      " EARQHLKDGTCGLVEVEKGVLPQLEQPYVFIKRSDARTAP\n" +
+      " HGHVMVELVAELEGIQYGRSGETLGVLVPHVGEIPVAYRK\n" +
+      " VLLRKNGNKGAGGHSYGADLKSFDLGDELGTDPYEDFQEN\n" +
+      " WNTKHSSGVTRELMRELNGG",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_1.pdb]\n Estimate TM-score=0.55",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Host translation inhibitor nsp1.\n" +
+      "Inhibits host translation by interacting with the 40S ribosomal subunit. The nsp1-40S ribosome complex further induces an endonucleolytic cleavage near the 5"UTR of host mRNAs, targeting them for degradation. Viral mRNAs are not susceptible to nsp1-mediated endonucleolytic RNA cleavage thanks to the presence of a 5"-end leader sequence and are therefore protected from degradation. By suppressing host gene expression, nsp1 facilitates efficient viral gene expression in infected cells and evasion from host immune response.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "2",
+    "aminoAcidSequence": ">QHD43415_2 (L=638)\n" +
+      " AYTRYVDNNFCGPDGYPLECIKDLLARAGKASCTLSEQLD\n" +
+      " FIDTKRGVYCCREHEHEIAWYTERSEKSYELQTPFEIKLA\n" +
+      " KKFDTFNGECPNFVFPLNSIIKTIQPRVEKKKLDGFMGRI\n" +
+      " RSVYPVASPNECNQMCLSTLMKCDHCGETSWQTGDFVKAT\n" +
+      " CEFCGTENLTKEGATTCGYLPQNAVVKIYCPACHNSEVGP\n" +
+      " EHSLAEYHNESGLKTILRKGGRTIAFGGCVFSYVGCHNKC\n" +
+      " AYWVPRASANIGCNHTGVVGEGSEGLNDNLLEILQKEKVN\n" +
+      " INIVGDFKLNEEIAIILASFSASTSAFVETVKGLDYKAFK\n" +
+      " QIVESCGNFKVTKGKAKKGAWNIGEQKSILSPLYAFASEA\n" +
+      " ARVVRSIFSRTLETAQNSVRVLQKAAITILDGISQYSLRL\n" +
+      " IDAMMFTSDLATNNLVVMAYITGGVVQLTSQWLTNIFGTV\n" +
+      " YEKLKPVLDWLEEKFKEGVEFLRDGWEIVKFISTCACEIV\n" +
+      " GGQIVTCAKEIKESVQTFFKLVNKFLALCADSIIIGGAKL\n" +
+      " KALNLGETFVTHSKGLYRKCVKSREETGLLMPLKAPKEII\n" +
+      " FLEGETLPTEVLTEEVVLKTGDLQPLEQPTSEAVEAPLVG\n" +
+      " TPVCINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGG",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_2.pdb]\n Estimate TM-score=0.40",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 2 (nsp2).\n" +
+      "May play a role in the modulation of host cell survival signaling pathway by interacting with host PHB and PHB2. Indeed, these two proteins play a role in maintaining the functional integrity of the mitochondria and protecting cells from various stresses.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "3",
+    "aminoAcidSequence": ">QHD43415_3 (L=1945)\n" +
+      " APTKVTFGDDTVIEVQGYKSVNITFELDERIDKVLNEKCS\n" +
+      " AYTVELGTEVNEFACVVADAVIKTLQPVSELLTPLGIDLD\n" +
+      " EWSMATYYLFDESGEFKLASHMYCSFYPPDEDEEEGDCEE\n" +
+      " EEFEPSTQYEYGTEDDYQGKPLEFGATSAALQPEEEQEED\n" +
+      " WLDDDSQQTVGQQDGSEDNQTTTIQTIVEVQPQLEMELTP\n" +
+      " VVQTIEVNSFSGYLKLTDNVYIKNADIVEEAKKVKPTVVV\n" +
+      " NAANVYLKHGGGVAGALNKATNNAMQVESDDYIATNGPLK\n" +
+      " VGGSCVLSGHNLAKHCLHVVGPNVNKGEDIQLLKSAYENF\n" +
+      " NQHEVLLAPLLSAGIFGADPIHSLRVCVDTVRTNVYLAVF\n" +
+      " DKNLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFITES\n" +
+      " KPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLLLYID\n" +
+      " INGNLHPDSATLVSDIDITFLKKDAPYIVGDVVQEGVLTA\n" +
+      " VVIPTKKAGGTTEMLAKALRKVPTDNYITTYPGQGLNGYT\n" +
+      " VEEAKTVLKKCKSAFYILPSIISNEKQEILGTVSWNLREM\n" +
+      " LAHAEETRKLMPVCVETKAIVSTIQRKYKGIKIQEGVVDY\n" +
+      " GARFYFYTSKTTVASLINTLNDLNETLVTMPLGYVTHGLN\n" +
+      " LEEAARYMRSLKVPATVSVSSPDAVTAYNGYLTSSSKTPE\n" +
+      " EHFIETISLAGSYKDWSYSGQSTQLGIEFLKRGDKSVYYT\n" +
+      " SNPTTFHLDGEVITFDNLKTLLSLREVRTIKVFTTVDNIN\n" +
+      " LHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTF\n" +
+      " YVLPNDDTLRVEAFEYYHTTDPSFLGRYMSALNHTKKWKY\n" +
+      " PQVNGLTSIKWADNNCYLATALLTLQQIELKFNPPALQDA\n" +
+      " YYRARAGEAANFCALILAYCNKTVGELGDVRETMSYLFQH\n" +
+      " ANLDSCKRVLNVVCKTCGQQQTTLKGVEAVMYMGTLSYEQ\n" +
+      " FKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKH\n" +
+      " GTFTCASEYTGNYQCGHYKHITSKETLYCIDGALLTKSSE\n" +
+      " YKGPITDVFYKENSYTTTIKPVTYKLDGVVCTEIDPKLDN\n" +
+      " YYKKDNSYFTEQPIDLVPNQPYPNASFDNFKFVCDNIKFA\n" +
+      " DDLNQLTGYKKPASRELKVTFFPDLNGDVVAIDYKHYTPS\n" +
+      " FKKGAKLLHKPIVWHVNNATNKATYKPNTWCIRCLWSTKP\n" +
+      " VETSNSFDVLKSEDAQGMDNLACEDLKPVSEEVVENPTIQ\n" +
+      " KDVLECNVKTTEVVGDIILKPANNSLKITEEVGHTDLMAA\n" +
+      " YVDNSSLTIKKPNELSRVLGLKTLATHGLAAVNSVPWDTI\n" +
+      " ANYAKPFLNKVVSTTTNIVTRCLNRVCTNYMPYFFTLLLQ\n" +
+      " LCTFTRSTNSRIKASMPTTIAKNTVKSVGKFCLEASFNYL\n" +
+      " KSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLG\n" +
+      " MPSYCTGYREGYLNSTNVTIATYCTGSIPCSVCLSGLDSL\n" +
+      " DTYPSLETIQITISSFKWDLTAFGLVAEWFLAYILFTRFF\n" +
+      " YVLGLAAIMQLFFSYFAVHFISNSWLMWLIINLVQMAPIS\n" +
+      " AMVRMYIFFASFYYVWKSYVHVVDGCNSSTCMMCYKRNRA\n" +
+      " TRVECTTIVNGVRRSFYVYANGGKGFCKLHNWNCVNCDTF\n" +
+      " CAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKN\n" +
+      " GSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKGSLPI\n" +
+      " NVIVFDGKSKCEESSAKSASVYYSQLMCQPILLLDQALVS\n" +
+      " DVGDSAEVAVKMFDAYVNTFSSTFNVPMEKLKTLVATAEA\n" +
+      " ELAKNVSLDNVLSTFISAARQGFVDSDVETKDVVECLKLS\n" +
+      " HQSDIEVTGDSCNNYMLTYNKVENMTPRDLGACIDCSARH\n" +
+      " INAQVAKSHNIALIWNVKDFMSLSEQLRKQIRSAAKKNNL\n" +
+      " PFKLTCATTRQVVNVVTTKIALKGG",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_3.pdb]\n Estimate TM-score=0.58",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Papain-like proteinase.\n" +
+      "Responsible for the cleavages located at the N-terminus of the replicase polyprotein. In addition, PL-PRO possesses a deubiquitinating/deISGylating activity and processes both "Lys-48"- and "Lys-63"-linked polyubiquitin chains from cellular substrates. Participates together with nsp4 in the assembly of virally-induced cytoplasmic double-membrane vesicles necessary for viral replication. Antagonizes innate immune induction of type I interferon by blocking the phosphorylation, dimerization and subsequent nuclear translocation of host IRF3. Prevents also host NF-kappa-B signaling.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6W6Y(range:207-379);\n6W9C(range:748-1060);"
+  },
+  {
+    "#": "4",
+    "aminoAcidSequence": ">QHD43415_4 (L=500)\n" +
+      " KIVNNWLKQLIKVTLVFLFVAAIFYLITPVHVMSKHTDFS\n" +
+      " SEIIGYKAIDGGVTRDIASTDTCFANKHADFDTWFSQRGG\n" +
+      " SYTNDKACPLIAAVITREVGFVVPGLPGTILRTTNGDFLH\n" +
+      " FLPRVFSAVGNICYTPSKLIEYTDFATSACVLAAECTIFK\n" +
+      " DASGKPVPYCYDTNVLEGSVAYESLRPDTRYVLMDGSIIQ\n" +
+      " FPNTYLEGSVRVVTTFDSEYCRHGTCERSEAGVCVSTSGR\n" +
+      " WVLNNDYYRSLPGVFCGVDAVNLLTNMFTPLIQPIGALDI\n" +
+      " SASIVAGGIVAIVVTCLAYYFMRFRRAFGEYSHVVAFNTL\n" +
+      " LFLMSFTVLCLTPVYSFLPGVYSVIYLYLTFYLTNDVSFL\n" +
+      " AHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNYLKR\n" +
+      " RVVFNGVSFSTFEEAALCTFLLNKEMYLKLRSDVLLPLTQ\n" +
+      " YNRYLALYNKYKYFSGAMDTTSYREAACCHLAKALNDFSN\n" +
+      " SGSDVLYQPPQTSITSAVLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_4.pdb]\n Estimate TM-score=0.53",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 4 (nsp4).\n" +
+      "Participates in the assembly of virally-induced cytoplasmic double-membrane vesicles necessary for viral replication.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "5",
+    "aminoAcidSequence": ">QHD43415_5 (L=306)\n" +
+      " SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPR\n" +
+      " HVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGH\n" +
+      " SMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNG\n" +
+      " SPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFC\n" +
+      " YMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTI\n" +
+      " TVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYE\n" +
+      " PLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRT\n" +
+      " ILGSALLEDEFTPFDVVRQCSGVTFQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_5.pdb]\n Estimate TM-score=0.96",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Proteinase 3CL-PRO.\n" +
+      "Cleaves the C-terminus of replicase polyprotein at 11 sites. Recognizes substrates containing the core sequence [ILMVF]-Q-|-[SGACN]. Also able to bind an ADP-ribose-1""-phosphate (ADRP).\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6LU7(range:1-306);"
+  },
+  {
+    "#": "6",
+    "aminoAcidSequence": ">QHD43415_6 (L=290)\n" +
+      " SAVKRTIKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYEN\n" +
+      " AFLPFAMGIIAMSAFAMMFVKHKHAFLCLFLLPSLATVAY\n" +
+      " FNMVYMPASWVMRIMTWLDMVDTSLSGFKLKDCVMYASAV\n" +
+      " VLLILMTARTVYDDGARRVWTLMNVLTLVYKVYYGNALDQ\n" +
+      " AISMWALIISVTSNYSGVVTTVMFLARGIVFMCVEYCPIF\n" +
+      " FITGNTLQCIMLVYCFLGYFCTCYFGLFCLLNRYFRLTLG\n" +
+      " VYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNIKLLGVGG\n" +
+      " KPCIKVATVQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_6.pdb]\n Estimate TM-score=0.37",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 6 (nsp6).\n" +
+      "Plays a role in the initial induction of autophagosomes from host reticulum endoplasmic. Later, limits the expansion of these phagosomes that are no longer able to deliver viral components to lysosomes.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "7",
+    "aminoAcidSequence": ">QHD43415_7 (L=83)\n" +
+      " SKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDIL\n" +
+      " LAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRA\n" +
+      " TLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_7.pdb]\n Estimate TM-score=0.63",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 7 (nsp7).\n" +
+      "Forms a hexadecamer with nsp8 (8 subunits of each) that may participate in viral replication by acting as a primase. Alternatively, may synthesize substantially longer products than oligonucleotide primers.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6M71(range:1-83);"
+  },
+  {
+    "#": "8",
+    "aminoAcidSequence": ">QHD43415_8 (L=198)\n" +
+      " AIASEFSSLPSYAAFATAQEAYEQAVANGDSEVVLKKLKK\n" +
+      " SLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKR\n" +
+      " AKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNII\n" +
+      " PLTTAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVV\n" +
+      " DADSKIVQLSEISMDNSPNLAWPLIVTALRANSAVKLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_8.pdb]\n Estimate TM-score=0.88",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 8 (nsp8).\n" +
+      "Forms a hexadecamer with nsp7 (8 subunits of each) that may participate in viral replication by acting as a primase. Alternatively, may synthesize substantially longer products than oligonucleotide primers.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6M71(range:84-132);"
+  },
+  {
+    "#": "9",
+    "aminoAcidSequence": ">QHD43415_9 (L=113)\n" +
+      " NNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKGGRF\n" +
+      " VLALLSDLQDLKWARFPKSDGTGTIYTELEPPCRFVTDTP\n" +
+      " KGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_9.pdb]\n Estimate TM-score=0.93",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 9 (nsp9).\n" +
+      "May participate in viral replication by acting as a ssRNA-binding protein.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6W4B(range:1-113);"
+  },
+  {
+    "#": "10",
+    "aminoAcidSequence": ">QHD43415_10 (L=139)\n" +
+      " AGNATEVPANSTVLSFCAFAVDAAKAYKDYLASGGQPITN\n" +
+      " CVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCH\n" +
+      " IDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVC\n" +
+      " GMWKGYGCSCDQLREPMLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_10.pdb]\n Estimate TM-score=0.90",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Non-structural protein 10 (nsp10).\n" +
+      "Plays a pivotal role in viral transcription by stimulating both nsp14 3"-5" exoribonuclease and nsp16 2"-O-methyltransferase activities. Therefore plays an essential role in viral mRNAs cap methylation.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6W75(range:1-139);"
+  },
+  {
+    "#": "11",
+    "aminoAcidSequence": ">QHD43415_11 (L=932)\n" +
+      " SADAQSFLNRVCGVSAARLTPCGTGTSTDVVYRAFDIYND\n" +
+      " KVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNY\n" +
+      " QHEETIYNLLKDCPAVAKHDFFKFRIDGDMVPHISRQRLT\n" +
+      " KYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKK\n" +
+      " DWYDFVENPDILRVYANLGERVRQALLKTVQFCDAMRNAG\n" +
+      " IVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPVVDSYYSL\n" +
+      " LMPILTLTRALTAESHVDTDLTKPYIKWDLLKYDFTEERL\n" +
+      " KLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFNVLFSTV\n" +
+      " FPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVN\n" +
+      " LHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAA\n" +
+      " LTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHF\n" +
+      " FFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYF\n" +
+      " DCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMS\n" +
+      " YEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGV\n" +
+      " SICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHN\n" +
+      " MLKTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLAR\n" +
+      " KHTTCCSLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGT\n" +
+      " SSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYV\n" +
+      " RNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSD\n" +
+      " DAVVCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCW\n" +
+      " TETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGA\n" +
+      " GCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADV\n" +
+      " FHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEF\n" +
+      " YEAMYTPHTVLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_11.pdb]\n Estimate TM-score=0.80",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "RNA-directed RNA polymerase (RdRp).\n" +
+      "Responsible for replication and transcription of the viral RNA genome.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6M71(range:1-932);"
+  },
+  {
+    "#": "12",
+    "aminoAcidSequence": ">QHD43415_12 (L=601)\n" +
+      " AVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHK\n" +
+      " LVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPIS\n" +
+      " FPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDY\n" +
+      " ILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSD\n" +
+      " RELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTF\n" +
+      " EKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTL\n" +
+      " VPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTL\n" +
+      " QGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEK\n" +
+      " ALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTV\n" +
+      " NALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIG\n" +
+      " DPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGT\n" +
+      " CRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVI\n" +
+      " THDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNA\n" +
+      " VASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNR\n" +
+      " FNVAITRAKVGILCIMSDRDLYDKLQFTSLEIPRRNVATL\n" +
+      " Q",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_12.pdb]\n Estimate TM-score=0.99",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Helicase (Hel).\n" +
+      "Multi-functional protein with a zinc-binding domain in N-terminus displaying RNA and DNA duplex-unwinding activities with 5" to 3" polarity. Activity of helicase is dependent on magnesium.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "13",
+    "aminoAcidSequence": ">QHD43415_13 (L=527)\n" +
+      " AENVTGLFKDCSKVITGLHPTQAPTHLSVDTKFKTEGLCV\n" +
+      " DIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAI\n" +
+      " RHVRAWIGFDVEGCHATREAVGTNLPLQLGFSTGVNLVAV\n" +
+      " PTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPLMYKGLPWN\n" +
+      " VVRIKIVQMLSDTLKNLSDRVVFVLWAHGFELTSMKYFVK\n" +
+      " IGPERTCCLCDRRATCFSTASDTYACWHHSIGFDYVYNPF\n" +
+      " MIDVQQWGFTGNLQSNHDLYCQVHGNAHVASCDAIMTRCL\n" +
+      " AVHECFVKRVDWTIEYPIIGDELKINAACRKVQHMVVKAA\n" +
+      " LLADKFPVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKA\n" +
+      " YKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPANSIVCR\n" +
+      " FDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFVNLK\n" +
+      " QLPFFYYSDSPCESHGKQVVSDIDYVPLKSATCITRCNLG\n" +
+      " GAVCRHHANEYRLYLDAYNMMISAGFSLWVYKQFDTYNLW\n" +
+      " NTFTRLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_13.pdb]\n Estimate TM-score=0.99",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Proofreading exoribonuclease / Guanine-N7 methyltransferase (ExoN).\n" +
+      "Enzyme possessing two different activities: an exoribonuclease activity acting on both ssRNA and dsRNA in a 3" to 5" direction and a N7-guanine methyltransferase activity. Acts as a proofreading exoribonuclease for RNA replication, thereby lowering the sensitivity of the virus to RNA mutagens.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "14",
+    "aminoAcidSequence": ">QHD43415_14 (L=346)\n" +
+      " SLENVAFNVVNKGHFDGQQGEVPVSIINNTVYTKVDGVDV\n" +
+      " ELFENKTTLPVNVAFELWAKRNIKPVPEVKILNNLGVDIA\n" +
+      " ANTVIWDYKRDAPAHISTIGVCSMTDIAKKPTETICAPLT\n" +
+      " VFFDGRVDGQVDLFRNARNGVLITEGSVKGLQPSVGPKQA\n" +
+      " SLNGVTLIGEAVKTQFNYYKKVDGVVQQLPETYFTQSRNL\n" +
+      " QEFKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDF\n" +
+      " SHSQLGGLHLLIGLAKRFKESPFELEDFIPMDSTVKNYFI\n" +
+      " TDAQTGSSKCVCSVIDLLLDDFVEIIKSQDLSVVSKVVKV\n" +
+      " TIDYTEISFMLWCKDGHVETFYPKLQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_14.pdb]\n Estimate TM-score=0.99",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Uridylate-specific endoribonuclease (NendoU).\n" +
+      "Mn(2+)-dependent, uridylate-specific enzyme, which leaves 2"-3"-cyclic phosphates 5" to the cleaved bond.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6VWW(range:1-346);"
+  },
+  {
+    "#": "15",
+    "aminoAcidSequence": ">QHD43415_15 (L=298)\n" +
+      " SSQAWQPGVAMPNLYKMQRMLLEKCDLQNYGDSATLPKGI\n" +
+      " MMNVAKYTQLCQYLNTLTLAVPYNMRVIHFGAGSDKGVAP\n" +
+      " GTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHT\n" +
+      " ANKWDLIISDMYDPKTKNVTKENDSKEGFFTYICGFIQQK\n" +
+      " LALGGSVAIKITEHSWNADLYKLMGHFAWWTAFVTNVNAS\n" +
+      " SSEAFLIGCNYLGKPREQIDGYVMHANYIFWRNTNPIQLS\n" +
+      " SYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLSKGRL\n" +
+      " IIRENNRVVISSDVLVNN",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43415_15.pdb]\n Estimate TM-score=0.99",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "2"-O-methyltransferase (2"-O-MT).\n" +
+      "Methyltransferase that mediates mRNA cap 2"-O-ribose methylation to the 5"-cap structure of viral mRNAs. N7-methyl guanosine cap is a prerequisite for binding of nsp16. Therefore plays an essential role in viral mRNAs cap methylation which is essential to evade immune system.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6W75(range:1-298);"
+  },
+  {
+    "#": "16",
+    "aminoAcidSequence": ">QHD43416 (L=1273)\n" +
+      " MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPD\n" +
+      " KVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFD\n" +
+      " NPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIV\n" +
+      " NNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVY\n" +
+      " SSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGY\n" +
+      " FKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQT\n" +
+      " LLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYN\n" +
+      " ENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRV\n" +
+      " QPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISN\n" +
+      " CVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSF\n" +
+      " VIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNN\n" +
+      " LDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPC\n" +
+      " NGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHA\n" +
+      " PATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFL\n" +
+      " PFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITP\n" +
+      " GTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGS\n" +
+      " NVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNS\n" +
+      " PRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTI\n" +
+      " SVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFC\n" +
+      " TQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGF\n" +
+      " NFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDC\n" +
+      " LGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAG\n" +
+      " TITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQ\n" +
+      " KLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALN\n" +
+      " TLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGR\n" +
+      " LQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRV\n" +
+      " DFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPA\n" +
+      " ICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNT\n" +
+      " FVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHT\n" +
+      " SPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDL\n" +
+      " QELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSC\n" +
+      " CSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43416.pdb]\n Estimate TM-score=0.84",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "Spike glycoprotein (S).\n" +
+      "\n" +
+      "Spike protein S1 (residue 13-685): attaches the virion to the cell membrane by interacting with host receptor, initiating the infection. Binding to human ACE2 receptor and internalization of the virus into the endosomes of the host cell induces conformational changes in the Spike glycoprotein (PubMed:32142651, PubMed:32075877, PubMed:32155444). Uses also human TMPRSS2 for priming in human lung cells which is an essential step for viral entry (PubMed:32142651). Proteolysis by cathepsin CTSL may unmask the fusion peptide of S2 and activate membranes fusion within endosomes \n" +
+      "Spike protein S2 (residue 686-1273): mediates fusion of the virion and cellular membranes by acting as a class I viral fusion protein. Under the current model, the protein has at least three conformational states: pre-fusion native state, pre-hairpin intermediate state, and post-fusion hairpin state. During viral and target cell membrane fusion, the coiled coil regions (heptad repeats) assume a trimer-of-hairpins structure, positioning the fusion peptide in close proximity to the C-terminal region of the ectodomain. The formation of this structure appears to drive apposition and subsequent fusion of viral and target cell membranes. \n" +
+      "Spike protein S2" (residue 816-1273): acts as a viral fusion peptide which is unmasked following S2 cleavage occurring upon virus endocytosis.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6VYB (open state)(range:1-1273);\n" +
+      "6VXX (closed state)(range:1-1273);\n" +
+      "6LXT(range:912-988,1164-1202);"
+  },
+  {
+    "#": "17",
+    "aminoAcidSequence": ">QHD43417 (L=275)\n" +
+      " MDLFMRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQAS\n" +
+      " LPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFV\n" +
+      " CNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINF\n" +
+      " VRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPY\n" +
+      " NSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDC\n" +
+      " VVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEP\n" +
+      " EEHVQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43417.pdb]\n Estimate TM-score=0.28",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "ORF3a.\n" +
+      "Forms homotetrameric potassium sensitive ion channels (viroporin) and may modulate virus release. Up-regulates expression of fibrinogen subunits FGA, FGB and FGG in host lung epithelial cells. Induces apoptosis in cell culture. Downregulates the type 1 interferon receptor by inducing serine phosphorylation within the IFN alpha-receptor subunit 1 (IFNAR1) degradation motif and increasing IFNAR1 ubiquitination\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "18",
+    "aminoAcidSequence": ">QHD43418 (L=75)\n" +
+      " MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLC\n" +
+      " AYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43418.pdb]\n Estimate TM-score=0.60",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "E.\n" +
+      "Plays a central role in virus morphogenesis and assembly. Acts as a viroporin and self-assembles in host membranes forming pentameric protein-lipid pores that allow ion transport. Also plays a role in the induction of apoptosis. Activates the host NLRP3 inflammasome, leading to IL-1beta overproduction.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "19",
+    "aminoAcidSequence": ">QHD43419 (L=222)\n" +
+      " MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYA\n" +
+      " NRNRFLYIIKLIFLWLLWPVTLACFVLAAVYRINWITGGI\n" +
+      " AIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL\n" +
+      " NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCD\n" +
+      " IKDLPKEITVATSRTLSYYKLGASQRVAGDSGFAAYSRYR\n" +
+      " IGNYKLNTDHSSSSDNIALLVQ",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43419.pdb]\n Estimate TM-score=0.37",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "M.\n" +
+      "Component of the viral envelope that plays a central role in virus morphogenesis and assembly via its interactions with other viral proteins.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "20",
+    "aminoAcidSequence": ">QHD43420 (L=61)\n" +
+      " MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNL\n" +
+      " SKSLTENKYSQLDEEQPMEID",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43420.pdb]\n Estimate TM-score=0.54",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "ORF6.\n" +
+      "Disrupts cell nuclear import complex formation by tethering karyopherin alpha 2 and karyopherin beta 1 to the membrane. Retention of import factors at the ER/Golgi membrane leads to a loss of transport into the nucleus. Thereby prevents STAT1 nuclear translocation in response to interferon signaling, thus blocking the expression of interferon stimulated genes (ISGs) that display multiple antiviral activities.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "21",
+    "aminoAcidSequence": ">QHD43421 (L=121)\n" +
+      " MKIILFLALITLATCELYHYQECVRGTTVLLKEPCSSGTY\n" +
+      " EGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRAR\n" +
+      " SVSPKLFIRQEEVQELYSPIFLIVAAIVFITLCFTLKRKT\n" +
+      " E",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43421.pdb]\n Estimate TM-score=0.72",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "ORF7a.\n" +
+      "Non-structural protein which is dispensable for virus replication in cell culture.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "22",
+    "aminoAcidSequence": ">QHD43422 (L=121)\n" +
+      " MKFLVFLGIITTVAAFHQECSLQSCTQHQPYVVDDPCPIH\n" +
+      " FYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYT\n" +
+      " VSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDF\n" +
+      " I",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43422.pdb]\n Estimate TM-score=0.45",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "ORF8.\n" +
+      "May play a role in host-virus interaction. Similar to some Bat coronavirus ns8 genes, but is entirely different from SARS ns8a or ns8b.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  },
+  {
+    "#": "23",
+    "aminoAcidSequence": ">QHD43423 (L=419)\n" +
+      " MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQR\n" +
+      " RPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSP\n" +
+      " DDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG\n" +
+      " LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQ\n" +
+      " LPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPG\n" +
+      " SSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ\n" +
+      " QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPE\n" +
+      " QTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRI\n" +
+      " GMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY\n" +
+      " KTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADL\n" +
+      " DDFSKQLQQSMSSADSTQA",
+    "C-I-TASSER structure model and estimated accuracy": "[QHD43423.pdb]\n Estimate TM-score=0.67",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "N.\n" +
+      "Packages the positive strand viral genome RNA into a helical ribonucleocapsid (RNP) and plays a fundamental role during virion assembly through its interactions with the viral genome and membrane protein M. Plays an important role in enhancing the efficiency of subgenomic viral RNA transcription as well as viral replication.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "6M3M(range:50-174);"
+  },
+  {
+    "#": "24",
+    "aminoAcidSequence": ">QHI42199 (L=38)\n MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT",
+    "C-I-TASSER structure model and estimated accuracy": "[QHI42199.pdb]\n Estimate TM-score=0.49",
+    "Protein name and function (based on UniProt curation of SARS-CoV-2 proteome)": "ORF10.\n" +
+      "Dubious/uncertain protein. It is currently unclear whether this region translates into a functional protein. The respective region in related beta-coronaviruses, such as SARS-CoV, does not correspond to translated peptide.\n" +
+      " [GO term predictions] [Ligand binding site predictions]",
+    "Solved experimental structure": "NA(range:NA);"
+  }
+]
