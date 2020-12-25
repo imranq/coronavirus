@@ -8,19 +8,18 @@ aminoAcids = JSON.parse(fs.readFileSync("data/aminoacids.json")).reduce((acc, ob
 }, {})
 
 //assumes data source is 5' -> 3', which is the orientation RNA is translated
+//make sure T's have gone to U's
 fullseq = coronaRna.filter(a => a["name"] == "sarscov2-sequence1")[0]["sequence"].toLowerCase().replace(/t/g, "u")
 proteins = []
 
-currentlyCoding = false
 start = 0
 end = 3
 
 while(end <= fullseq.length) {
     //get the codon 
-    rnaCodon = fullseq.slice(start, end) //make sure T's have gone to U's
+    rnaCodon = fullseq.slice(start, end) 
     //start coding if we find start codon
     if (rnaCodon == "aug") {
-        currentlyCoding = true
         newProtein = {
             "rnaStart": start,
             "rnaEnd": end,

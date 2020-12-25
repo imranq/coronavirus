@@ -1,3 +1,7 @@
+fs = require("fs")
+const levenshtein = require("js-levenshtein")
+
+
 //compare the other way, find the known protein sequences that are not matching and see if they fit within the translated proteins
 /*
     Strategy: Detect whether a known protein was cleaved from the translated proteins
