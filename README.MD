@@ -10,13 +10,13 @@ How to use:
 > 
 > `knownproteins.json`: Known protein sequences gathered from the New York Times Article ["The Coronavirus Unveiled"](https://www.nytimes.com/interactive/2020/health/coronavirus-unveiled.html) 
 
-Run `translate.js` to grab the coded proteins.
+Install the node modules with `npm install`. Run `translate.js` to grab the coded proteins.
 
 **![Alt text](public/covidimg.png?raw=true "Title")**
 
 ## Why study the Coronavirus?
 
-The Coronavirus, or SARS-CoV-2 (SC2), is a virus that infects humans and causes a disease referred to as COVID19. While most people infected with this virus have no symptoms, others suffer severe flu-like conditions and shortness of breath. How does something that cannot even be classified as "living" create such disturbing consequences? Our goal is to analyze the SARS-CoV-2 genome from first principles and computer science so we can understand how it operates and what makes its behaviour so strange.
+The Coronavirus, or SARS-CoV-2 (SC2), is a virus that infects humans and causes a disease referred to as COVID19. While most people infected with this virus have no symptoms, others suffer severe flu-like conditions and shortness of breath. How does not even "living" create such disturbing consequences? Our goal is to analyze the SARS-CoV-2 genome from first principles to answer such questions.
 
 All living things, while incredibly mysterious in aggregate, are all composed of cells. Cells, in turn, have been well studied by biologists and other scientists. In fact, cell follow just 3 basic principles: they hold genetic material in the form of DNA, that genetic material is translated into amino acid sequences, and those amino acid sequences fold up into unique shapes which determine their respective functions. This drives all the cell processes necessary for life. While this description is just scratching the surface of the rich complexity in a cell, it is all we need to understand the basic behavior of SC2.
 
@@ -50,6 +50,12 @@ As a first step in confirming our understanding, let's verify that the raw Coron
 
 We will simulate the transcription and translation process with some basic code found here `scripts/translate.js`
 
+## Post-translational modifications
+
+Why do so many coronavirus proteins not start with methionine?
+
+After all, many of the factors 
+
 ## References
 
 **Genetic Data Sources**
@@ -67,8 +73,9 @@ SARS CoV 2 - Nucleotide, Coding Region, and Protein sequences
 SARS CoV 2 - Tree of Complete Sequences
 - https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/precomptree
 
-Visualization example
-- https://observablehq.com/@analyzer2004/svgtable
+Zhang Lab Coronavirus Protein Data
+https://zhanglab.ccmb.med.umich.edu/COVID-19/
+
 
 
 **Open Source Resources**
@@ -79,8 +86,7 @@ Other open source resources: http://open-source-covid-19.weileizeng.com/
 
 Awesome-Coronavirus https://github.com/soroushchehresa/awesome-coronavirus
 
-Labs
-- https://www.uniprot.org/uniprot/Q0ZJN1
+Labs: https://www.uniprot.org/uniprot/Q0ZJN1
 
 
 **Biology Resources**
